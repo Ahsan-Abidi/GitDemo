@@ -1,0 +1,101 @@
+STACKS :-
+
+MEAN Stack 
+M :- Mongo DB 
+E :- Express Js
+A :- Angular
+N :- Node Js
+
+MERN Stack :-
+M :- Mongo DB 
+E :- Express Js
+R :- React
+N :- Node Js
+
+JAVA FULL STACK 
+
+M :- Mongo DB --> Data Base
+E :- Express Js --> Back-End
+A / R :- Angular / React --> Front-End
+N :- Node Js --> Back-End
+
+THREE PILLERS :-
+1 ) HTML --> Hyper Text Mark-UP Language
+2 ) CSS --> Cascading Style Sheet
+3 ) Js --> Java Script
+
+WEB DEV :- 
+>> Bulding / Developer Team 
+>> Testing Team ( Manual / Automated Testers )
+>> Hosting Team ( DevOps Team )
+>> Maintenance Team / Support Team 
+
+SDLC ( Sofdtware Development Life Cycle )
+--> Water-Fall Model
+--> Agile Model
+--> Spiral Model
+--> Iterative Model
+--> V-Shaped Model
+--> RAD ( Rapid Application Development) Model
+
+URL ( Uniform Resource Locator )
+--> https : Protocal
+--> RohanAcademy : Server / Domain Name
+--> education : Sub-Domain 
+--> edu : TLD ( Top Level Domain )
+--> FULLSTACK : Path / Locator
+
+Protocal :- 
+>> Set of rules / instructions
+http :-
+Hyper Text Transfer Protocal
+https :-
+Hyper Text Transfer Protocal Secure 
+TCP :-
+Transmission Control Protocal
+UDP :-
+User Datagram Protocal
+SMPT :-
+Simple Mail Transfer Protocal
+FTP :-
+File Transfer Protocal 
+IP :-
+iNTERNET Protocal ( ip v4 & ip v6 )
+
+>> client / web-page --- (UName & UPwd )
+>> ssl ( Secure Socket Layer ) Certification
+
+Server / Domain Name :-
+ Ex :- Google , Amazon
+
+ Sub-Domain Name :-
+--> G-meet
+--> G-Maps
+--> G-Drive
+--> G-mail
+--> G-Photos
+--> G-Files
+--> G-chrome
+--> G-Calander
+--> G-pay
+
+--> Amazon Shopping
+--> Aws
+
+TLD ( Top Level Domain ) :-
+--> Amazon.in
+--> Amazon.com
+--> Amazon.edu
+--> Amazon.org
+--> Amazon.uk
+
+Offline Editors :-
+--> Notepad
+--> Notepad ++
+--> Sublime
+--> Open Brackets
+--> VS Code
+
+Online Editors :-
+--> Code Space
+--> Code Sand-Box
